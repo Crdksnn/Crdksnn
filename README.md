@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sinan Çardak!
 
-**Frontend Developer** | **Software Engineer** | **Passionate about Modern Web Development**  
+**Full-Stack Developer** | **Software Engineer** | **Passionate about Modern Web Development**  
 
 I am an experienced **Full-Stack Developer** skilled in modernizing user interfaces, developing robust back-end solutions, and enhancing user experiences. I enjoy building clean, maintainable code and creating seamless, user-focused designs. Let's collaborate to make web experiences better!
   
