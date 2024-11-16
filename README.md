@@ -8,7 +8,7 @@ I am an experienced Frontend Developer skilled in modernizing user interfaces an
 
 ## 📫 Contact Me
 - **Email**: [crdksnn@gmail.com](mailto:crdksnn@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sinan-çardak-2a2244192/) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinan-çardak-2a2244192/) 
 
 ---
 
