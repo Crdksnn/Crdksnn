@@ -2,13 +2,13 @@
 
 **Frontend Developer** | **Software Engineer** | **Passionate about Modern Web Development**  
 
-I am an experienced Frontend Developer skilled in modernizing user interfaces and enhancing user experiences. I enjoy building clean, maintainable code, and creating seamless user-focused designs. Let's collaborate to make web experiences better!  
-
+I am an experienced **Full-Stack Developer** skilled in modernizing user interfaces, developing robust back-end solutions, and enhancing user experiences. I enjoy building clean, maintainable code and creating seamless, user-focused designs. Let's collaborate to make web experiences better!
+  
 ---
 
 ## 📫 Contact Me
-- **Email**: [crdksnn@gmail.com](mailto:crdksnn@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinan-çardak-2a2244192/) 
+- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:crdksnn@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinan-çardak-2a2244192/)
 
 ---
 
